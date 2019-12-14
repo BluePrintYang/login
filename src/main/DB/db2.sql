@@ -1,6 +1,4 @@
 /*
- Navicat Premium Data Transfer
-
  Source Server         : 本地
  Source Server Type    : MySQL
  Source Server Version : 50644
@@ -12,6 +10,10 @@
  File Encoding         : 65001
 
  Date: 14/12/2019 12:55:24
+*/
+
+/*
+ 需在mysql中创建名为db2的数据库，并执行此sql文件
 */
 
 SET NAMES utf8mb4;
